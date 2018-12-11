@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "634249287558",
+    "firebase_url": "https://privaton-5ffd1.firebaseio.com",
+    "project_id": "privaton-5ffd1",
+    "storage_bucket": "privaton-5ffd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634249287558:android:d587c8a4d4969135",
+        "android_client_info": {
+          "package_name": "app.sensey.privaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634249287558-cdasmp7obntsa3kn4104o2mpctuer13c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9ZMCc9ZDvyXHvsbgjg2RSGyePMdte68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

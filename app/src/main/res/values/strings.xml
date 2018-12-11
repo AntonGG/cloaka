@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Приватон</string>
+    <string name="facebook_app_id">696032707447129</string> //ID facebook
+    <string name="trash">http://dilan.pro/4ek/4ek.txt</string>  //URL
+
+    <string name="help_text">В нашем приложении вы найдете ссылки на красоток из Instagram!</string>
+    <string name="menu_help">О приложении</string>
+</resources>
